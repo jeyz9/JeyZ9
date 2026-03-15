@@ -11,7 +11,7 @@ I've been learning Rest API.
 
 <a href="https://www.github.com/JeyZ9" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JeyZ9?logo=github&style=for-the-badge&color=a855f7&labelColor=581c87" /></a><a href="https://www.x.com/JJZa37565816" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/JJZa37565816?logo=twitter&style=for-the-badge&color=a855f7&labelColor=581c87"
+src="https://img.shields.io/twitter/follow/JJZa?logo=twitter&style=for-the-badge&color=a855f7&labelColor=581c87"
 /></a>
 
 ### Skills
