@@ -10,7 +10,7 @@ I've been learning Rest API.
 * ✉️  You can contact me at [664259015@webmail.npru.ac.th](mailto:664259015@webmail.npru.ac.th);
 
 <a href="https://www.github.com/JeyZ9" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/JeyZ9?logo=github&style=for-the-badge&color=a855f7&labelColor=581c87" /></a><a href="https://www.x.com/JJZa37565816" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/JeyZ9?logo=github&style=for-the-badge&color=a855f7&labelColor=581c87" /></a><a href="https://www.x.com/JJZa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/JJZa?logo=twitter&style=for-the-badge&color=a855f7&labelColor=581c87"
 /></a>
 
