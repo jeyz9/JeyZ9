@@ -23,7 +23,13 @@
 ### 💻 Main Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,vite,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,tailwind,vite,nodejs" />
+</p>
+
+### 🧠 Backend Focus
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
 ### 🗄️ Database
@@ -32,11 +38,12 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### ⚙️ DevOps & Automation
+### ⚙️ DevOps, Cloud & Automation
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,jenkins" />
-  <img src="https://cdn.simpleicons.org/n8n" width="48" height="48" alt="n8n" />
+  <img src="https://skillicons.dev/icons?i=git,docker,jenkins" height="48" style="vertical-align: middle;" />
+  <img src="https://cdn.simpleicons.org/n8n" height="48" style="vertical-align: middle;" />
+  <img src="https://cdn.simpleicons.org/digitalocean" height="48" style="vertical-align: middle;" />
 </p>
 
 ---
