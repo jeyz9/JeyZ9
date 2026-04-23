@@ -52,7 +52,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JeyZ9&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeyZ9&layout=compact&theme=tokyonight&hide=php,html" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeyZ9&layout=compact&theme=tokyonight&hide=php,html,Vue" height="170"/>
 </p>
 
 ---
